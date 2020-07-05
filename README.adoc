@@ -1,6 +1,8 @@
-### Hi there 👋
+=== Hi there 👋
 
-```yaml
+[source, yaml]
+.about
+----
 apiVersion: me/v1
 kind: backend
 metadata:
@@ -13,4 +15,4 @@ environment:
  - "RISK-TAKING > STABILITY"
 contact:
  email: opid911@gmail.com
-```
+----
