@@ -9,4 +9,10 @@ metadata:
   role: "software engineer
 ----
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=wicksome)](https://github.com/wicksome)]
+<a href="https://github.com/wicksome">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wicksome&theme=radical&hide_langs_below=1" />
+</a>
+<a href="https://github.com/wicksome">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wicksome&show_icons=true&theme=radical&line_height=27" alt="wicksome's github stats" />
+</a>
