@@ -8,3 +8,5 @@ kind: backend
 metadata:
   role: "software engineer
 ----
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=wicksome)](https://github.com/wicksome)]
