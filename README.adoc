@@ -8,5 +8,3 @@ kind: backend
 metadata:
   role: "software engineer
 ----
-
-image::https://github-readme-stats.anuraghazra1.vercel.app/api?username=wicksome&show_icons=true&line_height=27[]
